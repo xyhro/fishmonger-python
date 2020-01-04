@@ -13,8 +13,8 @@ users =  db.collection('players')
 players = users.stream()
 
 client = discord.Client()
-token = 'NDk5NzAyNzc0NTU3MzEwOTg3.XgjAzA.V3wdrBVcbXK7VZbLghm3X9KdxZg' #shenanigans
-#token = 'NTgzMTA4Njk0NDM1Mjk5MzMw.XO3ocA.kKTy60g0CQwRzNfh292NbbrTBgI' #chakbot
+token = 
+#token = 
 
 class Players:
 
